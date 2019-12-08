@@ -1,0 +1,19 @@
+{
+  "name": "unofficial-google-play-music-desktop",
+  "version": "1.0.0",
+  "description": "An unofficial desktop player for Google Play Music",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clark Winters",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.1.3"
+  }
+}
