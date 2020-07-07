@@ -14,6 +14,6 @@
   "author": "Clark Winters",
   "license": "ISC",
   "dependencies": {
-    "electron": "^7.1.3"
+    "electron": "^7.2.4"
   }
 }
